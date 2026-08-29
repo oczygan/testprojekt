@@ -36,6 +36,8 @@ _single underscores_
 
 **double asterisks**
 
+Änderung 1, fixes #1
+
 __double underscores__
 
 \*this text is surrounded by literal asterisks\*
