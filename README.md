@@ -41,3 +41,5 @@ _single underscores_
 __double underscores__
 
 \*this text is surrounded by literal asterisks\*
+
+fixes #1
